@@ -1,70 +1,70 @@
-# Getting Started with Create Focus Timer
+# ⏱️ Focus Time
 
-This project was bootstrapped with [Create Focus Timer](https://github.com/facebook/create-react-app).
+### Stay focused. Track your time. Build better habits.
 
-## Available Scripts
+**Focus Time** is a clean and modern productivity timer designed to help you focus on what matters and understand how you spend your time.
 
-In the project directory, you can run:
+<p align="center">
+  <img src="./screenshots/dashboard.png" width="280" alt="Focus Time">
+</p>
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+* ⏱️ Focus & Break Timer
+* 📊 Daily, Weekly & Monthly Tracking
+* ⭐ Task Priority / Grade System
+* 📅 Calendar-based Time Tracking
+* 📝 Manual Time Logging
+* 🔔 Focus & Break Notifications
+* 💾 Local & Offline Data Storage
+* 📱 Android App
 
-### `npm test`
+---
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🎯 Why Focus Time?
 
-### `npm run build`
+Instead of just running a timer, Focus Time helps you **understand your focus**.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Track how much time you spend on different tasks, organize them by priority, and review your productivity over time.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 📱 Preview
 
-### `npm run eject`
+<p align="center">
+  <img src="./screenshots/timer.png" width="220" alt="Timer">
+  <img src="./screenshots/today.png" width="220" alt="Today">
+  <img src="./screenshots/calendar.png" width="220" alt="Calendar">
+</p>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🚀 Download
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Get the latest Android version from **GitHub Releases**.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**[Download Focus Time →](../../releases/latest)**
 
-## Learn More
+---
 
-You can learn more in the [Create Focus Timer documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🛠️ Built With
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+**React · Tailwind CSS · Capacitor · SQLite**
 
-### Code Splitting
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## 👨‍💻 Author
 
-### Analyzing the Bundle Size
+### Mahdi Asgary
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+React Developer & Junior Pentester
 
-### Making a Progressive Web App
+[GitHub](https://github.com/mahdiasgary)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="center">
+  Made with ❤️ for better focus
+</p>
