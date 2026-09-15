@@ -59,7 +59,7 @@ Get the latest Android version from **GitHub Releases**.
 
 ### Mahdi Asgary
 
-React Developer & Junior Pentester
+React Developer 
 
 [GitHub](https://github.com/mahdiasgary)
 
